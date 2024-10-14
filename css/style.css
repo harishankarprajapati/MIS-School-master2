@@ -166,6 +166,7 @@
   text-transform: uppercase;
   font-weight: 600;
   color: #fff;
+  margin: 0px;
 }
 
 .cataaa {
@@ -173,7 +174,7 @@
 }
 
 .secintbg {
-  padding: 50px 0px 80px 0px;
+  padding: 80px 0px 80px 0px;
 }
 
 .secaf {
@@ -395,7 +396,7 @@ button.next-btn:hover i {
 .secactvdate {
   border: 3px solid #D7D4D3;
   padding: 10px;
-  margin-right: 296px;
+  margin-right: 286px;
   text-align: center;
   border-radius: 8px;
 }
