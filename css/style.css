@@ -593,6 +593,7 @@ button.next-btn3:hover i {
   background-color: #fff;
   padding: 20px;
   text-align: center;
+  height: 155px;
 }
 
 .camptext h4 {
@@ -853,17 +854,17 @@ justify-content: flex-end;
   color: #000;
 }
 .secstudent{
-  padding: 50px 50px 50px 0px;
+  padding: 50px 50px 50px 20px;
 }
-.secstudent2{
+/* .secstudent2{
   display: flex;
   align-items: center;
-}
+} */
 .Visionbg{
   background-image: url(../images/Visionbg.png);
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 20px;
+  padding: 40px 20px;
 }
 .vistext{
   font-family: 'Inter';
@@ -878,11 +879,15 @@ color: #1763AD;
   font-family: 'Inter';
   font-size: 20px;
 }
+.Visiorr{
+  display: flex;
+  align-items: center;
+}
 .Missionbg{
   background-image: url(../images/Missionbg.png);
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 20px;
+  padding: 40px 20px;
 }
 
 .secaabbg2{
@@ -997,7 +1002,7 @@ font-family: 'Inter';
   font-family: 'Inter';
   font-size: 25px;
   color: #000;
-  padding: 10px 0px;
+  padding: 30px 0px 10px 0px;
 }
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
   color: #000 !important;
