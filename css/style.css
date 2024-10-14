@@ -1167,20 +1167,6 @@ textarea.form-control {
   text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .sunbmenusec{
   color: #000;
     border-style: dotted;
@@ -1203,6 +1189,27 @@ textarea.form-control {
   margin-top: 0.125em;
   margin-left: 0.125em;
 }
+
+.form-group.col-md-6 {
+  padding-left: 0;
+}
+
+.form-group.col-md-12 {
+  padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (min-width: 767px) {
   .dropend:hover > .dropdown-menu {
     position: absolute;
