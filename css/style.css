@@ -97,12 +97,17 @@
 }
 
 .secherbg1 {
+  background-image: url(../images/herslider2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px;
+}
+.secherbg2 {
   background-image: url(../images/herslider1.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 630px;
 }
-
 .secherotext {
   text-align: center;
   padding: 300px;
@@ -124,7 +129,7 @@
 }
 
 .seccarbgmain {
-  margin-top: -85px;
+  margin-top: -35px;
   position: relative;
   z-index: 100;
 }
@@ -133,8 +138,7 @@
   background-color: #173E6B;
   border-left: 10px solid #1763AD;
   padding: 20px;
-  height: 180px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
@@ -158,7 +162,7 @@
 
 .seccategbg h3 {
   font-family: 'Inter';
-  font-size: 26px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: 600;
   color: #fff;
@@ -207,12 +211,12 @@
   left: -27px;
   background-color: #FFDD00;
   width: 6px;
-  height: 801px;
+  height: 821px;
 }
 
 .whysectext {
   font-family: 'Inter';
-  font-size: 50px;
+  font-size: 40px;
   text-transform: capitalize;
   font-weight: 500;
   color: #2E2B26;
@@ -1194,7 +1198,7 @@ textarea.form-control {
   margin-top: 0.125em;
   margin-left: 0.125em;
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 767px) {
   .dropend:hover > .dropdown-menu {
     position: absolute;
     top: 0;
