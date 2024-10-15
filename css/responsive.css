@@ -136,6 +136,10 @@
 .secevery{
   font-size: 30px;
 }
+.col-md-6.secstudent2 {
+  display: flex;
+  align-items: center;
+}
 }
 
 

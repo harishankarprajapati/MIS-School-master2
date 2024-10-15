@@ -204,6 +204,15 @@
 .secaf2 {
   position: relative;
 }
+.adddsec{
+  text-align: center;
+  font-family: 'Inter';
+  font-size: 40px;
+  text-transform: capitalize;
+  font-weight: 700;
+  color: #000;
+  padding-top: 30px;
+}
 
 .secaf2::after {
   content: " ";
