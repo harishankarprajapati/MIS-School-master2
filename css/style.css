@@ -594,7 +594,7 @@ button.next-btn3:hover i {
   background-color: #fff;
   padding: 20px;
   text-align: center;
-  height: 155px;
+  /* height: 155px; */
 }
 
 .camptext h4 {
