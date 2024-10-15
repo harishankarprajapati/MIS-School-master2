@@ -1054,6 +1054,9 @@ textarea.form-control {
   color: #000 !important; 
   padding-left: 15px;
 }
+.secpadtex p{
+  padding-left: 0px !important;
+}
 .seccbttt{
   text-align: left !important;
 }
