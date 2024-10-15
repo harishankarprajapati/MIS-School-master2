@@ -1055,17 +1055,17 @@ textarea.form-control {
   margin: auto !important;
 }
 .secpadtex{
-  padding-top: 30px;
+  padding-top: 50px;
 }
 .secpadtex p{
   font-family: 'Inter' !important;
   font-size: 18px !important;
   color: #000 !important; 
-  padding-left: 15px;
 }
-.secpadtex p{
-  padding-left: 0px !important;
+.secicopadd p{
+  padding-left: 15px !important;
 }
+
 .seccbttt{
   text-align: left !important;
 }
@@ -1121,7 +1121,6 @@ textarea.form-control {
   text-transform: uppercase;
   padding-top: 10px;
   color: #000;
-  padding-bottom: 20px; 
 }
 .secpaa{
   padding-top: 0px !important ;
